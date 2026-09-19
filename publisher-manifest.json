@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "ec930540fe33a133ffc3314e",
+  "owner": "wunvevytv",
+  "repo": "page-825aac78b4e9917a0c9d021e",
+  "title": "搬瓦工(JustMySocks)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "825aac78b4e9917a0c9d021e",
+      "a": "搬瓦工(JustMySocks)",
+      "b": "机场推荐第一",
+      "entity": "搬瓦工(JustMySocks)",
+      "brand": "搬瓦工(JustMySocks)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8c19ed78d7a0d3e830cf6e7593d5e6f13950d99131f16be304bc13c45d0c774e",
+      "content": {
+        "primary_entity": "搬瓦工(JustMySocks)",
+        "keyword1": "搬瓦工(JustMySocks)",
+        "keyword2": "机场推荐第一",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统匹配对应客户端，再导入订阅信息即可连接。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "从设备数量与流量需求出发，选择匹配的订阅版本。",
+          "AI_CLOSING_TITLE": "按需选版本",
+          "AI_DESCRIPTION": "，JMS 以固定套餐与多端订阅为核心，提供从基础到团队的阶梯选择。用户可按同时在线设备数与月度流量确定版本，再依据设备系统复制订阅链接完成配置。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。设备数按同时连接计算，手机、平板、电脑共享名额。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。若多设备追剧或下载较多，建议从旗舰版起步。",
+          "AI_FAQ_ANSWER_3": "可以。基础版提供普通线路节点池，旗舰版增加 IPLC 专线并优化游戏延迟，团队版为 VIP 高带宽节点。",
+          "AI_FAQ_ANSWER_4": "月付适合短期使用，年付更划算。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元。",
+          "AI_FAQ_ANSWER_5": "按设备系统安装对应客户端后，复制订阅链接粘贴导入，选择节点连接即可。不同系统步骤略有差异，可参考客户端自带说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个订阅可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "各版本流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "不同版本的线路有区别吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_5": "订阅导入后如何连接使用？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量与订阅周期展开对比。",
+          "AI_FEATURES_TITLE": "套餐适配要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按同时在线设备数选择版本。",
+          "AI_FEATURE_TEXT_2": "每月 100GB 至 1000GB 阶梯流量，追剧与下载需求可优先旗舰版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付仅需 150 元起，长期使用可选年付方案。",
+          "AI_FEATURE_TITLE_1": "按设备数选版",
+          "AI_FEATURE_TITLE_2": "按流量需求选版",
+          "AI_FEATURE_TITLE_3": "按使用周期选版",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，按步骤操作即可。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "JustMySocks 提供基础版、旗舰版与团队版三档订阅，涵盖 3 至 20 台设备与 100GB 至 1000GB 月流量，支持普通线路与 IPLC 专线。",
+          "AI_HERO_SUBTITLE": "多设备订阅，阶梯式套餐",
+          "AI_HIGHLIGHT_1": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_2": "最多 20 台设备在线",
+          "AI_HIGHLIGHT_3": "年付低至 150 元",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与专线，团队版满足多人共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按同时在线设备数与月度流量确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选版本的设备数量、线路类型与月流量是否匹配使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，选择节点后连接使用。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "多设备加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "21e0237b5aa0895e467d688353bf012c96dbea7c4264c1c2ddf80b0beda63383",
+    "sitemap.xml": "658ed8a91dd83f75dcfabd1911bfd129583dba8a77c587115fb046ad627da79d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "b6843ab8b0bcfd82d272f710cbd0fa7e12d9fa6097265fb58a53ad1060f4e21c"
+}
